@@ -2377,7 +2377,7 @@ SET character_set_client = @saved_cs_client;
 
 LOCK TABLES `mybb_users` WRITE;
 /*!40000 ALTER TABLE `mybb_users` DISABLE KEYS */;
-INSERT INTO `mybb_users` VALUES (1,'admin','6029608fc7c7de6f6cec2ff61850563e','gyrxfM0Y','V5KLMpPereDeVvnVnbWD3lf3FZCq79l2jonWLVPj2dD3qEOMGO','MYBB_ADMINEMAIL',0,0,'','','0',4,'',0,'',1483090061,1483090140,1483090140,0,'','','','','','','','all','',1,0,0,0,1,0,1,1,1,0,'',1,1,1,1,1,1,0,0,0,'','','0',0,0,'','',0,0,0,'','','','',0,0,0,'mJ?\"','mJ?\"','',79,1,0,0,0,0,0,0,0,0,0,0,0,1,'',0);
+INSERT INTO `mybb_users` VALUES (1,'admin','b7004539a245225c2d1dbe97d8f4c0bf','sRO3XQgF','UcEHqknAhS2kDHZFTkQAV1Pr5rrNFeL9uibvagSeuFVu2uh8sE','MYBB_ADMINEMAIL',0,0,'','','0',4,'',0,'',1483090061,1483090140,1483090140,0,'','','','','','','','all','',1,0,0,0,1,0,1,1,1,0,'',1,1,1,1,1,1,0,0,0,'','','0',0,0,'','',0,0,0,'','','','',0,0,0,'mJ?\"','mJ?\"','',79,1,0,0,0,0,0,0,0,0,0,0,0,1,'',0);
 /*!40000 ALTER TABLE `mybb_users` ENABLE KEYS */;
 UNLOCK TABLES;
 
