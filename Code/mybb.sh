@@ -6,7 +6,7 @@ echo $MYBB_DBPASSWORD
 echo $MYBB_SERVER
 
 WEB="/var/www/html"
-SRC="/tmp/mybb"
+SRC="/tmp/mybb/Code"
 
 cp "$SRC"/* "$WEB"/
 
